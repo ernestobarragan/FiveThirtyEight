@@ -13,5 +13,5 @@ The results were honestly surprising. I expected more people to say it was rude,
 
 ### What this chart shows
 
-This chart shows how 805 people felt about being asked to switch seats. It breaks down how many thought it was very rude, somewhat rude, or not rude at all. It really highlights how accepting people can be when it comes to making space for families on a flight.
+This chart shows how 850 people felt about being asked to switch seats. It breaks down how many thought it was very rude, somewhat rude, or not rude at all. In the results, 705 people said it’s not rude at all, 125 said it’s somewhat rude, and 20 said it’s very rude. It really highlights how accepting most people are when it comes to making space for families on a flight.
 
