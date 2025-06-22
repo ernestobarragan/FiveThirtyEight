@@ -2,6 +2,16 @@
 
 ![This is the results form the data collected](DATAJOURN-WK4-chart.png)
 
-I chose this question to determine if people find it rude to ask others on a plane if they can switch seats to allow families to sit together.  Considering the fact that the data set provided was on flight etiquette, we also consider that many airlines allow you to pay extra for a seat, so I thought it would be interesting to see how people reacted to asking to switch seats.
 
-*The result was shocking, as a vast majority of people did not find it rude to ask to switch seats.*
+###Why I chose this question
+
+I chose this question because I wanted to understand how people feel about being asked to switch seats on a plane so families can sit together. The dataset was about flight etiquette, and I thought this was a really interesting topic, especially now that a lot of airlines charge extra for certain seats.
+
+###What I found interesting
+
+The results were honestly surprising. I expected more people to say it was rude, but most didn’t seem to have an issue with it. It made me realize that a lot of people are more understanding than I thought when it comes to situations like this.
+
+###What this chart shows
+
+This chart shows how 805 people felt about being asked to switch seats. It breaks down how many thought it was very rude, somewhat rude, or not rude at all. It really highlights how accepting people can be when it comes to making space for families on a flight.
+
