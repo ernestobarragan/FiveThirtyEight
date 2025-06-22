@@ -1,6 +1,6 @@
 # FiveThirtyEight
 
-![This is the results form the data collected](DATAJOURN-WK4-chart.png)
+![This is the results form the data collected](datajourn-wk4-chart.png)
 
 
 ### Why I chose this question
